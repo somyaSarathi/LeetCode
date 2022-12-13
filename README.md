@@ -1,2 +1,3 @@
-# -LeetCode-Solutions
-A collection of LeetCode solutions. Note: All the solutions are in "Python 3"🐍
+# LeetCode
+A collection of LeetCode solutions.<br/>
+`NOTE:` All the solutions are in <code>"Python 3"</code>
