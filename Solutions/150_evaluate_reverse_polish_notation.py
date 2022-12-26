@@ -20,11 +20,3 @@ class Solution:
             i += 1
 
         return int(tokens[0])
-
-
-
-if __name__ == '__main__':
-    tokens = ["18"]
-    print(Solution().evalRPN(tokens))
-
-    exit(0)
